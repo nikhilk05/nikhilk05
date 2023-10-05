@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilk05&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilk05" /> </p>
 
 - 📫 How to reach me **nikhilk84310@gmail.com**
